@@ -11,12 +11,6 @@
   ],
   "references": [
     {
-      "path": "../react-core"
-    },
-    {
-      "path": "../react-icons"
-    },
-    {
       "path": "../react-styles"
     }
   ]
